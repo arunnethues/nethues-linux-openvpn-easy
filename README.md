@@ -7,7 +7,7 @@ it assume that all files inside this repo exists inside same folder = Desktop
 #### Below steps are require only once
 
 1. move all file inside Desktop Folder except `README.md`
-2. replace file `username__ssl_vpn_config.ovpn` with orginal file provided by Nethes's Admin, update `vpn-connect.py` with correct `ovpn` file name
+2. replace file `username__ssl_vpn_config.ovpn` with orginal file provided by Nethes's Admin, update `vpn-connect.py` with correct `ovpn` file name if require
 3. udpate vpn-pass.txt with correct credentials
 4. add executable permission to vpn-connect.py
     ```
