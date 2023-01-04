@@ -1,0 +1,1 @@
+sudo openvpn --config username__ssl_vpn_config.ovpn --auth-user-pass vpn-pass.txt
